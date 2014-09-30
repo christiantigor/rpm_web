@@ -1,4 +1,4 @@
-<?
+<?php
 session_start(); 
 $_SESSION["simpankata"]="";
 //if (!extension_loaded('gd')) dl('gd.so');
